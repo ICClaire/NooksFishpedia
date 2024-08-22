@@ -24,7 +24,7 @@ export default function FishLists({navigation}) {
   // Used the 'useEffect' hook helps fetch the data from the API
   // and then sets the data, filtered data and loading state to true
   // Needed a key
-  const key = 'ca581a10-25c4-4f5a-8160-58ca09092a2e';
+  const key = '';
 
   // Followed the documentation 'https://api.nookipedia.com/doc#/paths/~1nh~1fish/get' 
   // For the headers
